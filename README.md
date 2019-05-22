@@ -1,2 +1,2 @@
-# Fuzz-Ledger
-A Blockchain to Track Criminality
+# hyperledger-hackathon
+Internal hackathon project using hyperledger.
